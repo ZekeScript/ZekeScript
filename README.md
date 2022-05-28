@@ -11,7 +11,7 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning Vanilla JavaScript
-- 💬 Ask me about anything>
+- 💬 Ask me about anything
 
 
 <br/>
@@ -39,7 +39,7 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
 <br/>
 
-<div>
+<div align="right">
     <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
