@@ -28,7 +28,7 @@ I'm a self-taught developer from Argentina 🇦🇷
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
+  <img height="144em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
   
 <br/>
