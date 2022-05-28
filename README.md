@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/ezEst6">Hi! 👋</a></p>
+<p align="center"><a href="https://github.com/ezEst6">Im Eze</a></p>
 
 <br/>
 
