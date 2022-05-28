@@ -54,14 +54,14 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 ##
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=furry-journey" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=fantastic-enigma" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=animated-spoon" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=Elibrary" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=special-enigma" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=legendary-octo-happiness" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=furry-journey&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=fantastic-enigma&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=animated-spoon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=Elibrary&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=special-enigma&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=legendary-octo-happiness&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117" target="_blank">
 </div>
 
 ##
