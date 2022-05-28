@@ -30,7 +30,7 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
   
-  ##
+##
 
 <div align="center">
     <img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
@@ -50,7 +50,22 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
         <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
     </a>
 </div>
-  
+
+##
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=furry-journey" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=fantastic-enigma" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=animated-spoon" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=Elibrary" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=special-enigma" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=legendary-octo-happiness" target="_blank">
+</div>
+
+##
+
 <div>
   
   ![Snake animation](https://github.com/ezEst6/ezEst6/blob/output/github-contribution-grid-snake.svg)
