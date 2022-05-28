@@ -2,6 +2,7 @@
 
 <br/>
 
+I'm a self-taught developer from Argentina 🇦🇷
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning Vanilla JavaScript
 - 💬 Ask me about anything
