@@ -4,7 +4,7 @@
 
 <br/>
 
-Welcome to my page!
+Welcome to my page!<br/>
 I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
 <br/>
@@ -40,7 +40,6 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 <br/>
 
 <div>
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark">
     <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
@@ -54,6 +53,6 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
   
 <div>
   
-    ![Snake animation](https://github.com/ezEst6/ezEst6/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ezEst6/ezEst6/blob/output/github-contribution-grid-snake.svg)
   
 </div>
