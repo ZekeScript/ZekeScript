@@ -1,4 +1,4 @@
-<h1 align="center" style="font-color: rgb(149, 214, 0);">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Nice to see you.</h1>
 
 <br/>
 
@@ -12,8 +12,8 @@ I'm a self-taught developer from Argentina 🇦🇷
 
 <div align="center">
   <a href="https://github.com/ezEst6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezEst6&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezEst6&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,8 +27,8 @@ I'm a self-taught developer from Argentina 🇦🇷
   ##
 
 <div align="center">
-  <img height="140em" src ="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
+  <img height="157em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
   
 <br/>
