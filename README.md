@@ -2,7 +2,7 @@
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </h1><br/>
 
-Welcome to my GitHub!<br/>
+Welcome to my GitHub!<br/><br/>
 I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
 
 - 🔭 I’m currently working on my Front-End skills
@@ -47,6 +47,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
 #### Top Repositories
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
+    <br/>
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
 </div>
 
