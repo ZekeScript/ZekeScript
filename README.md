@@ -3,9 +3,9 @@
 </h1><br/>
 
 Welcome to my GitHub!<br/>
-I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
+I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
 
-- 🔭 I’m currently working on my front-end skills
+- 🔭 I’m currently working on my Front-End skills
 - 🌱 I’m currently learning Vanilla JavaScript
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
