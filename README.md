@@ -7,7 +7,7 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
 - 🔭 I’m currently working on my front-end skills
 - 🌱 I’m currently learning Vanilla JavaScript
-- 💬 Ask me about anything<br/>
+- 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
