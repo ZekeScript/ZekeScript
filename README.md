@@ -1,26 +1,20 @@
 <h1 align="center">
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</h1>
-
-<br/>
+</h1><br/>
 
 Welcome to my page!<br/>
 I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
-<br/>
-
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning Vanilla JavaScript
-- 💬 Ask me about anything
-
-
-<br/>
+- 💬 Ask me about anything<br/>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezEst6&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
-</div>
-<div style="display: inline_block"><br>
+</div><br>
+
+<div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -28,7 +22,7 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
     <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-  
+
 ##
 
 <div align="center">
