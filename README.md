@@ -46,8 +46,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
 
 #### Top Repositories
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
-    <br/>
+    <img style="margin-bottom: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
 </div>
 
