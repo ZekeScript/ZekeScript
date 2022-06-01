@@ -1,9 +1,4 @@
-<div style="display: inline_block">
-    <h1>
-        Hi 
-    </h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-</div><br/>
+<h1style="display: inline_block">Hi Good to see you</h1>
 
 Welcome to my GitHub!<br/><br/>
 I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
