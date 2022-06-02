@@ -4,7 +4,7 @@ Welcome to my GitHub!<br/><br/>
 I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
 
 - 🔭 I’m currently working on my Front-End skills
-- 🌱 I’m currently learning Vanilla JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
 <div align="center">
