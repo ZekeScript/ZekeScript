@@ -1,7 +1,7 @@
 <h1 align="center" style="display: inline_block">Hi. Good to see you!</h1>
 
 Welcome to my GitHub!<br/><br/>
-I'm Ezequiel, a self-taught Fullstack Developer from Argentina 🇦🇷
+I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 - 🔭 I’m currently working on my Front-End skills
 - 🌱 I’m currently learning JavaScript
