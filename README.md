@@ -1,13 +1,11 @@
-<h1 align="center">
-    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</h1><br/>
+<h1 align="center" style="display: inline_block">Hi. Good to see you!</h1>
 
-Welcome to my GitHub!<br/>
-I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
+Welcome to my GitHub!<br/><br/>
+I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning Vanilla JavaScript
-- 💬 Ask me about anything<br/>
+- 🔭 I’m currently working on my Front-End skills
+- 🌱 I’m currently learning JavaScript
+- 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
@@ -17,17 +15,18 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
 ##
 
 <div align="center">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
-    <img height="132em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 
 <br/>
@@ -46,8 +45,12 @@ I'm Ezequiel, a self-taught Fullstack developer from Argentina 🇦🇷
 
 #### Top Repositories
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
+    <a href="https://github.com/ezEst6/shiny-fiesta">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
+    </a>
+    <a href="https://github.com/ezEst6/super-chainsaw">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
+    </a>
 </div>
 
 ##
