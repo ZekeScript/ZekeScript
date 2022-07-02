@@ -6,7 +6,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 - 🌱 I’m currently learning JavaScript
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
@@ -29,7 +29,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 ##
 
-<br/><br/>
+<br/>
 
 <div align="center">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
@@ -50,7 +50,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
     </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <h2 style="display: inline_block">Top Repositories</h2>
 
