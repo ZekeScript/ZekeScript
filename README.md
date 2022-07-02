@@ -6,10 +6,14 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 - 🌱 I’m currently learning JavaScript
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything<br/>
 
+<br/><br/>
+
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezEst6&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
-</div><br>
+</div>
+
+<br>
 
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,8 +29,11 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 ##
 
+<br/><br/>
+
 <div align="center">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
+    <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 
 <br/>
@@ -43,19 +50,20 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
     </a>
 </div>
 
-#### Top Repositories
+<br/><br/>
+
+<h2 style="display: inline_block">Top Repositories</h2>
+
 <div>
     <a href="https://github.com/ezEst6/shiny-fiesta">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=shiny-fiesta&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
     </a>
     <a href="https://github.com/ezEst6/super-chainsaw">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ezEst6&repo=super-chainsaw&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&border_color=30363d" target="_blank">
     </a>
 </div>
 
-##
-
-<div>
+<div align="center">
   
   ![Snake animation](https://github.com/ezEst6/ezEst6/blob/output/github-contribution-grid-snake.svg)
   
