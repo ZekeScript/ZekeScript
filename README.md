@@ -63,6 +63,8 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
     </a>
 </div>
 
+<br/>
+
 <div align="center">
   
   ![Snake animation](https://github.com/ezEst6/ezEst6/blob/output/github-contribution-grid-snake.svg)
