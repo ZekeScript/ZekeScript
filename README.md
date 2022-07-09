@@ -1,4 +1,4 @@
-<h1 align="center" style="display: inline_block">Hi. Good to see you!</h1>
+<h1 align="center">Hi. Good to see you!</h1>
 
 I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
@@ -15,7 +15,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 <br>
 
-<div style="display: inline_block; margin: 0 0 0 30em">
+<div>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,7 +47,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 <br/>
 
-<h2 style="display: inline_block">Top Repositories</h2>
+<h2>Top Repositories</h2>
 
 <div>
     <a href="https://github.com/ezEst6/shiny-fiesta">
