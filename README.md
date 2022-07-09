@@ -27,8 +27,8 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 <br/>
 
 <div align="center">
-    <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
-    <img align="center" height="142em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
+    <img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=ezEst6&theme=chartreuse-dark&hide_border=true&background=0d1117">
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 
 <br/>
