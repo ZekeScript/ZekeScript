@@ -15,7 +15,7 @@ I'm Ezequiel, a self-taught Fullstack Developer from Argentina
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin: 0 0 0 3em">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
