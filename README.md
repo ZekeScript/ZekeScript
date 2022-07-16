@@ -27,9 +27,6 @@
     <a align="right" href="https://www.linkedin.com/in/ezequiel-estigarribia" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-    <a align="right" href="https://www.freecodecamp.org/Ezest" target="_blank">
-        <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
-    </a>
 </div>
 
 <div align="center">
