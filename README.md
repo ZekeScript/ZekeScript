@@ -6,7 +6,7 @@
 
 <div align="center">
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezEst6&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Elibrary&username=ezEst6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 
 <div>
