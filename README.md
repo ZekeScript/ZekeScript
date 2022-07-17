@@ -5,8 +5,8 @@
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything
 
 <div align="center">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&hide=contribs&custom_title=ezEst's GitHub Stats&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Elibrary&username=ezEst6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&hide=contribs&custom_title=ezEst's GitHub Stats&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Elibrary&username=ezEst6&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
 
 <div>
