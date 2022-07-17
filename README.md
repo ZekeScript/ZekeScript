@@ -8,7 +8,7 @@
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&hide=contribs&custom_title=ezEst's GitHub Stats&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
-
+<br>
 <div align="right">
     <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="left" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
