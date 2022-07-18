@@ -16,7 +16,7 @@
   <img align="left" title="CSS3" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/CSS3.svg">
   <img align="left" title="git" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/git.svg">
   <a align="right" title="Gmail" alt="Gmail" href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub" target="_blank">
-    <img height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/Gmail.svg">
+    <img height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/f7c72b125b14f0d1398b4ad01799dc4bbf58f5e7/img/Gmail.svg">
   </a>
   <a align="right" title="LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/ezequiel-estigarribia" target="_blank">
     <img height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/LinkedIn.svg">
