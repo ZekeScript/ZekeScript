@@ -1,7 +1,7 @@
 <h1 align="center">Hi. Good to see you!</h1>
 
 - 🔭 I’m currently working on my Front-End skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything
 - ⚡️ Dark mode is always better
 
