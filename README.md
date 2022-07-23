@@ -11,9 +11,9 @@
 </div>
 <br>
 <div align="right">
-  <img align="left" title="JavaScript" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/JavaScript.svg">
   <img align="left" title="HTML5" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/HTML5.svg">
   <img align="left" title="CSS3" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/CSS3.svg">
+  <img align="left" title="JavaScript" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/JavaScript.svg">
   <img align="left" title="git" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/ezEst6/ezEst6/4c89f4a4bc07f0b701e2338e794815d2ef13a94c/img/git.svg">
   <a align="right" title="Gmail" alt="Gmail" href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub" target="_blank">
     <img height="25" src="https://raw.githubusercontent.com/ezEst6/ezEst6/main/img/Gmail.png">
