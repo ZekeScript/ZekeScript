@@ -5,7 +5,7 @@
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything
 - ⚡️ Dark mode is always better
 
-<div align="center">
+<div>
   <img align="center" title="GitHub Stats" alt="GitHub Stats" height="120em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&hide=contribs&custom_title=ezEst's GitHub Stats&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
   <img align="center" title="Most Used Language" alt="Most Used Language" height="80em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ezEst&langs_count=4&custom_title=Most Used&hide=markdown&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117">
 </div>
