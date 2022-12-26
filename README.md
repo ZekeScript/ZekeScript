@@ -7,7 +7,7 @@
 
 <div align="center">
   <img align="center" title="GitHub Stats" alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=ezEst6&show_icons=true&theme=chartreuse-dark&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117">
-  <img align="center" title="Most Used Language" alt="Most Used Language" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezEst6&theme=github_dark">
+  <img align="center" title="Most Used Language" alt="Most Used Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezEst6&theme=github_dark">
 </div>
 
 <br>
