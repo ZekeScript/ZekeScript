@@ -10,10 +10,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezEst6&theme=github_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezEst6&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezEst6&theme=github_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezEst6&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ezEst6&theme=github_dark" />
   </a>
 </div>
 
