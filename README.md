@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Front-End skills
 - 🌱 I’m currently learning React
 - 💬 <a href="mailto:estiga27@gmail.com?Subject=Desde%20GitHub">Ask me</a> about anything
-- ⚡️ Dark mode is always better
+- ⚡️ With dark mode, bugs do not approach
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
