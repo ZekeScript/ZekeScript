@@ -13,7 +13,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZekeScript&theme=github_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZekeScript&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZekeScript&theme=github_dark&utcOffset=-3" />
   </a>
 </div>
 
